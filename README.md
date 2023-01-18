@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umidjon017
 - 👀 I’m interested in Open source projects!
-- 🌱 I’m currently working Laravel framework of PHP!
+- 🌱 I’m currently working with Laravel framework of PHP!
 - 💞️ I’m looking to collaborate on learning & working Laravel framework together!
 - 📫 How to reach me @umidjon.017 - instagram.
 
